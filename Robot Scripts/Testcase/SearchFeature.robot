@@ -7,6 +7,7 @@ Test Teardown       Common.Run Test Teardown
 UI _ Verify Search Suggestions Search By Full Name
     Open Web Browser
     Input Search        SANDISK Flash Drive Ultra Flair USB 3.0 SDCZ73_128G_G46
+    Log to console      s
     Verify Categories Suggestions Count         3
     Verify Categorie Suggestion Detail By Index      index=1       text=in Flash Drives
     Verify Categorie Suggestion Detail By Index      index=2       text=in Storage

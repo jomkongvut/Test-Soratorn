@@ -9,6 +9,8 @@ Resource            ../Variables/Common.robot
 Open Web Browser
     New Browser     ${browser}      headless=False
     New Page        ${url}
+    Click Close Main Popup
+
 Verify Response 200
     [Arguments]     ${url}
     ${response}=        RequestsLibrary.GET     ${url}      expected_status=200
@@ -31,3 +33,6 @@ Verify Response Key
 Verify Response Value
     [Arguments]     ${dict}     ${text}
     Dictionary Should Contain Value       ${dict}     ${key}
+
+Click Close Main Popup
+    Run Keyword And Ignore Error    Browser.Click       //iframe[contains(@src,"info/frame")] >>> //*[contains(@id,"wrap-close-button-")]
