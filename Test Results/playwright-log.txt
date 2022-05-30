@@ -1,0 +1,558 @@
+{"level":30,"time":"2022-05-30T18:35:59.796Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Listening on 50352"}
+{"level":30,"time":"2022-05-30T18:35:59.836Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:35:59.837Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:35:59.839Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:35:59.839Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:35:59.841Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:00.108Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:00.136Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:00.151Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:00.157Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:00.451Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:00.461Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:04.022Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:04.024Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:04.024Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:04.271Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:04.274Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:04.274Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:04.650Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:04.653Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:04.653Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.397Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:05.400Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:05.400Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.416Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:05.418Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.418Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][1] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.445Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][1] containing in Flash Drives"}
+{"level":30,"time":"2022-05-30T18:36:05.445Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.446Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.446Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][2] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.452Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][2] containing in Storage"}
+{"level":30,"time":"2022-05-30T18:36:05.452Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.454Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.454Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][3] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.459Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][3] containing in WORK-FROM-HOME-IT-GADGET-2022"}
+{"level":30,"time":"2022-05-30T18:36:05.459Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.461Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:05.461Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.464Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:05.465Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:05.465Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[@data-suggestion-productid] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.466Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:05.468Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.468Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.473Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][1]//div[@data-suggestion-label] containing SANDISK Flash Drive Ultra Flair USB 3.0 SDCZ73_128G_G46"}
+{"level":30,"time":"2022-05-30T18:36:05.473Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.474Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.475Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.479Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][1]//div[@data-product-search-result] containing ฿850.00"}
+{"level":30,"time":"2022-05-30T18:36:05.479Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.481Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.481Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:05.485Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][1]//img containing https://aumento.officemate.co.th/media/catalog/product/p/w/pwb000233496_1.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:05.485Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.632Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.632Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][2]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.637Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][2]//div[@data-suggestion-label] containing SanDisk USB Drive Ultra Flair 32GB USB 3.0 Silver (SDCZ73_032G_G46B)"}
+{"level":30,"time":"2022-05-30T18:36:05.637Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.639Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.639Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][2]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.645Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][2]//div[@data-product-search-result] containing ฿169.00"}
+{"level":30,"time":"2022-05-30T18:36:05.645Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.646Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.646Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][2]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:05.649Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][2]//img containing https://aumento.officemate.co.th/media/catalog/product/y/0/y070200.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:05.649Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.749Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.749Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][3]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.754Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][3]//div[@data-suggestion-label] containing SanDisk USB Drive Ultra Shift USB 3.0 128GB (SDCZ410-128G-G46)"}
+{"level":30,"time":"2022-05-30T18:36:05.754Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.755Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.755Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][3]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.759Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][3]//div[@data-product-search-result] containing ฿390.00"}
+{"level":30,"time":"2022-05-30T18:36:05.759Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.760Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.760Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][3]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:05.765Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][3]//img containing https://aumento.officemate.co.th/media/catalog/product/y/0/y070202.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:05.765Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.839Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.840Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][4]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.844Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][4]//div[@data-suggestion-label] containing SanDisk SDCZ410-064G-G46 SanDisk USB Drive Ultra USB 30 64GB SDCZ410-064G-G46"}
+{"level":30,"time":"2022-05-30T18:36:05.844Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.845Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.845Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][4]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.849Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][4]//div[@data-product-search-result] containing ฿219.00"}
+{"level":30,"time":"2022-05-30T18:36:05.849Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.850Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.850Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][4]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:05.854Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][4]//img containing https://aumento.officemate.co.th/media/catalog/product/y/0/y070032.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:05.854Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.926Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.927Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][5]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.931Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][5]//div[@data-suggestion-label] containing SanDisk USB D. Ult Shift USB 3.0 64GB SDCZ410-064G-G46"}
+{"level":30,"time":"2022-05-30T18:36:05.932Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.933Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.933Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][5]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:05.937Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][5]//div[@data-product-search-result] containing ฿229.00"}
+{"level":30,"time":"2022-05-30T18:36:05.937Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:05.939Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:05.939Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][5]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:05.943Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][5]//img containing https://aumento.officemate.co.th/media/catalog/product/y/0/y070273.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:05.943Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:06.015Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:06.015Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][6]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:06.019Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][6]//div[@data-suggestion-label] containing SanDisk Flash Drive SDCZ73_064G_G46"}
+{"level":30,"time":"2022-05-30T18:36:06.019Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:06.020Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:06.020Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][6]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:06.025Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][6]//div[@data-product-search-result] containing ฿275.00"}
+{"level":30,"time":"2022-05-30T18:36:06.025Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:06.026Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:06.026Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][6]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:06.030Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][6]//img containing https://aumento.officemate.co.th/media/catalog/product/y/0/y068659_x2.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:06.030Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:06.132Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:06.146Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=89751c68-68d5-415a-a7fb-f1d914ae3987 from context=3b3f01e1-f614-423c-9d4b-4d3e2d92cdff page stack"}
+{"level":30,"time":"2022-05-30T18:36:06.275Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:06.277Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:06.277Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:06.278Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:06.278Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:06.279Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:06.475Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:06.489Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:06.539Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:06.562Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:06.875Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:06.885Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:10.578Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:10.580Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:10.580Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:10.803Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:10.805Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:10.805Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:10.863Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:10.865Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:10.865Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.278Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:11.280Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:11.280Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.297Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:11.300Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.300Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][1] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.337Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][1] containing in SANDISK-OI-1-30NOV21"}
+{"level":30,"time":"2022-05-30T18:36:11.337Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.339Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.339Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][2] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.343Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][2] containing in แฟลชไดร์ USB 2.0, 3.0"}
+{"level":30,"time":"2022-05-30T18:36:11.343Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.345Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.345Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][3] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.349Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][3] containing in Flash Drive"}
+{"level":30,"time":"2022-05-30T18:36:11.349Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.350Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.350Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][4] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.356Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][4] containing in IT-MEMORY-1-31JAN22"}
+{"level":30,"time":"2022-05-30T18:36:11.356Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.357Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:11.357Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.361Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:11.362Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:11.362Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[@data-suggestion-productid] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.363Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:11.364Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.364Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.369Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][1]//div[@data-suggestion-label] containing Flashdrive 32GB Blue SanDisk SDCZ73_032G_G46B"}
+{"level":30,"time":"2022-05-30T18:36:11.369Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.370Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.370Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.374Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][1]//div[@data-product-search-result] containing ฿159.00"}
+{"level":30,"time":"2022-05-30T18:36:11.374Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.375Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:11.375Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:11.379Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][1]//img containing https://aumento.officemate.co.th/media/catalog/product/4/0/4007069.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:11.379Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:11.520Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.520Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][2]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.525Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][2]//div[@data-suggestion-label] containing Sandisk Cruzer Blade Flash Drive 32GB (SDCZ50) Black"}
+{"level":30,"time":"2022-05-30T18:36:11.525Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.526Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.526Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][2]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.530Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][2]//div[@data-product-search-result] containing ฿125.00"}
+{"level":30,"time":"2022-05-30T18:36:11.530Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.531Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:11.531Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][2]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:11.535Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][2]//img containing https://aumento.officemate.co.th/media/catalog/product/O/F/OFM4002584.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:11.535Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:11.804Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.804Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][3]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.808Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][3]//div[@data-suggestion-label] containing SanDisk FlashDrive SDCZ410_032G_G46 Black"}
+{"level":30,"time":"2022-05-30T18:36:11.808Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.809Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.809Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][3]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:11.813Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][3]//div[@data-product-search-result] containing ฿145.00"}
+{"level":30,"time":"2022-05-30T18:36:11.813Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:11.814Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:11.814Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][3]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:11.819Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][3]//img containing https://aumento.officemate.co.th/media/catalog/product/4/0/4007980.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:11.819Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:12.032Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.032Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][4]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:12.037Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][4]//div[@data-suggestion-label] containing Flashdrive SanDisk SDCZ50C"}
+{"level":30,"time":"2022-05-30T18:36:12.037Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.038Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.038Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][4]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:12.042Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][4]//div[@data-product-search-result] containing ฿130.00"}
+{"level":30,"time":"2022-05-30T18:36:12.042Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.043Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:12.043Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][4]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:12.047Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][4]//img containing https://aumento.officemate.co.th/media/catalog/product/4/0/4006954.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:12.047Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:12.297Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.297Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][5]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:12.302Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][5]//div[@data-suggestion-label] containing Flashdrive SanDisk SDCZ50C"}
+{"level":30,"time":"2022-05-30T18:36:12.302Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.303Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.303Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][5]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:12.308Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][5]//div[@data-product-search-result] containing ฿130.00"}
+{"level":30,"time":"2022-05-30T18:36:12.308Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.309Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:12.309Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][5]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:12.312Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][5]//img containing https://aumento.officemate.co.th/media/catalog/product/4/0/4006953.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:12.312Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:12.450Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.450Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][6]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:12.454Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][6]//div[@data-suggestion-label] containing Flashdrive SanDisk SDCZ50C"}
+{"level":30,"time":"2022-05-30T18:36:12.454Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.455Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.455Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][6]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:12.459Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][6]//div[@data-product-search-result] containing ฿130.00"}
+{"level":30,"time":"2022-05-30T18:36:12.459Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:12.460Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:12.460Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][6]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:12.463Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][6]//img containing https://aumento.officemate.co.th/media/catalog/product/4/0/4006952.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:12.463Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:12.650Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:12.679Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=5c78489c-e647-46f3-ba45-02b021950011 from context=ae333c86-56ab-480b-a11c-2d87907eeb47 page stack"}
+{"level":30,"time":"2022-05-30T18:36:12.782Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:12.783Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:12.783Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:12.784Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:12.784Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:12.785Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:13.058Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:13.068Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:13.102Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:13.106Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:13.386Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:13.394Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:16.717Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:16.719Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:16.719Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:17.106Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:17.108Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:17.108Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.181Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:17.182Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:17.182Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")])[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.547Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:17.548Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:17.548Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.570Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:17.572Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:17.572Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.598Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] containing sandisk"}
+{"level":30,"time":"2022-05-30T18:36:17.598Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:17.600Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:17.600Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.602Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:17.604Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:17.604Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.606Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:17.608Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:17.608Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.611Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:17.612Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:17.612Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[@data-suggestion-productid] in page."}
+{"level":30,"time":"2022-05-30T18:36:17.613Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:17.614Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:17.628Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=dd79b24a-283b-4552-b3aa-9fe3151377e2 from context=85ccb855-9ef1-45a4-b66d-211bfabf7875 page stack"}
+{"level":30,"time":"2022-05-30T18:36:17.789Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:17.791Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:17.791Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:17.792Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:17.792Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:17.793Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:18.019Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:18.043Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:18.058Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:18.061Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:18.512Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:18.525Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:21.931Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:21.933Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:21.933Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:22.208Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:22.210Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:22.210Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:22.485Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:22.487Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:22.487Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//div[@data-suggestion-label] in page."}
+{"level":30,"time":"2022-05-30T18:36:22.964Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][1]//div[@data-suggestion-label] containing SanDisk Flash Drive SDDD3_064G_G46"}
+{"level":30,"time":"2022-05-30T18:36:22.964Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:22.966Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:22.966Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//div[@data-product-search-result] in page."}
+{"level":30,"time":"2022-05-30T18:36:22.972Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[@data-suggestion-productid][1]//div[@data-product-search-result] containing ฿1,000,000.00"}
+{"level":30,"time":"2022-05-30T18:36:22.972Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:22.973Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:22.973Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][1]//img in page."}
+{"level":30,"time":"2022-05-30T18:36:22.976Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element //*[@data-suggestion-productid][1]//img containing https://aumento.officemate.co.th/media/catalog/product/y/0/y068664.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:36:22.976Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:36:23.092Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:23.111Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=766f7da6-ef58-4f78-a0e1-0fd106bfedee from context=64a5343a-13fd-4af2-bfe5-ffae95123a2d page stack"}
+{"level":30,"time":"2022-05-30T18:36:23.237Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:23.239Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:23.239Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:23.240Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:23.240Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:23.241Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:23.471Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:23.497Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:23.514Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:23.535Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:23.824Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:23.824Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:27.436Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:27.437Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:27.438Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:27.660Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:27.662Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:27.662Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:27.834Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:27.836Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:27.836Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")])[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:28.201Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:28.203Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:28.203Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:28.214Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:28.216Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:28.216Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:28.227Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] containing sandisk"}
+{"level":30,"time":"2022-05-30T18:36:28.227Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:28.228Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:28.228Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1] in page."}
+{"level":30,"time":"2022-05-30T18:36:28.379Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:28.381Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:28.382Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(text(),'product results found for')] in page."}
+{"level":30,"time":"2022-05-30T18:36:29.833Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:29.836Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:29.865Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=6b22a24b-10cd-497a-a67a-81fe3ff13c95 from context=248e5589-d0a0-4045-972d-49a36fdffe7c page stack"}
+{"level":30,"time":"2022-05-30T18:36:30.019Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:30.021Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:30.021Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:30.022Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:30.022Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:30.024Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:30.237Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:30.263Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:30.297Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:30.333Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:30.645Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:30.645Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:34.127Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:34.129Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:34.130Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:34.374Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:34.375Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:34.375Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:34.661Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:34.662Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:34.662Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")])[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:34.970Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:34.971Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:34.971Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:34.975Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:34.977Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:34.978Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:35.044Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] containing sandisk"}
+{"level":30,"time":"2022-05-30T18:36:35.044Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:35.046Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:35.046Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"categories\")][contains(text(),\"in Memory Card\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:35.160Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:35.162Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:35.162Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(text(),'product results found for')] in page."}
+{"level":30,"time":"2022-05-30T18:36:37.776Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:37.780Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:37.801Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=cd3215f6-dd65-456a-9d1e-34093969fcfd from context=e0499636-b5b5-4259-83d4-147af41f4d28 page stack"}
+{"level":30,"time":"2022-05-30T18:36:37.955Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:37.957Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:37.957Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:37.958Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:37.958Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:37.959Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:38.233Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:38.240Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:38.254Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:38.258Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:38.492Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:38.500Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:42.155Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:42.156Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:42.157Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:42.418Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:42.419Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:42.419Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:42.587Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:42.588Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:42.588Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")])[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:42.906Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:42.908Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:42.908Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is disabled, return Locator: //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")] in page."}
+{"level":30,"time":"2022-05-30T18:36:42.927Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-05-30T18:36:42.929Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:42.929Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] in page."}
+{"level":30,"time":"2022-05-30T18:36:42.955Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element //*[contains(@class,\"suggestion_container\")]//*[contains(@data-suggestion-label,\"suggestion\")][1]/div[1] containing sandisk"}
+{"level":30,"time":"2022-05-30T18:36:42.955Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:36:42.957Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:42.957Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][contains(@data-suggestion-name,'External SSD SanDisk Extreme Portable 500GB')] in page."}
+{"level":30,"time":"2022-05-30T18:36:43.143Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:43.145Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:43.145Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"pnl-productHeader\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:44.432Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:44.434Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:44.455Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=32eff8f4-cbdd-4109-9a7a-388d1cab791a from context=90aaa52d-2585-4bbf-be19-97d43e0a49aa page stack"}
+{"level":30,"time":"2022-05-30T18:36:44.600Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:44.601Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:44.601Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:44.602Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:44.602Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:44.604Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:44.803Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:44.849Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:44.884Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:44.940Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:45.358Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:45.358Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:48.971Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:48.973Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:48.973Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:36:49.154Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:49.156Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:49.156Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:49.504Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:36:49.506Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:49.506Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-suggestion-productid][contains(@data-suggestion-name,'SanDisk Flash Drive SDDD3_064G_G46')] in page."}
+{"level":30,"time":"2022-05-30T18:36:49.999Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:36:50.001Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:50.001Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"pnl-productHeader\"] in page."}
+{"level":30,"time":"2022-05-30T18:36:51.658Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:36:51.661Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:51.682Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=ca479661-dee9-4bfd-b96a-9efa150edcf4 from context=238fe0a0-390c-4c32-94e8-2ca0ec1a16c6 page stack"}
+{"level":30,"time":"2022-05-30T18:36:51.849Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:36:51.850Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:51.850Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:51.851Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:51.851Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:36:51.853Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:52.131Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-30T18:36:52.136Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:52.166Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-30T18:36:52.171Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-30T18:36:52.492Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-30T18:36:52.492Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-30T18:36:56.063Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-30T18:36:56.064Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:36:56.064Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find with //iframe[contains(@src,\"info/frame\")] >>> //*[contains(@id,\"wrap-close-button-\")] in frame."}
+{"level":30,"time":"2022-05-30T18:37:06.065Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Error of node method  click"}
+================= Original suppressed error =================
+locator.click: Timeout 10000ms exceeded.
+=========================== logs ===========================
+  waiting for frame "xpath=//iframe[contains(@src,"info/frame")]"
+  selector resolved to hidden <iframe frameborder="0" class="sp-fancybox-iframe sp-fan…></iframe>
+waiting for selector "//iframe[contains(@src,"info/frame")] >> control=enter-frame >> //*[contains(@id,"wrap-close-button-")]"
+============================================================
+    at click (/Users/soratorn.k/Library/Python/3.8/lib/python/site-packages/Browser/wrapper/index.js:7105:17)
+    at async PlaywrightServer.click (/Users/soratorn.k/Library/Python/3.8/lib/python/site-packages/Browser/wrapper/index.js:7973:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-30T18:37:06.068Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-30T18:37:06.330Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-30T18:37:06.338Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-30T18:37:06.338Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@data-testid=\"txt-SearchBar\"] in page."}
+{"level":30,"time":"2022-05-30T18:37:06.837Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-30T18:37:06.838Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-30T18:37:06.838Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with id=btn-searchResultPage in page."}
+{"level":30,"time":"2022-05-30T18:37:06.963Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-30T18:37:06.966Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:37:06.966Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[contains(text(),'product results found for')] in page."}
+{"level":30,"time":"2022-05-30T18:37:09.611Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-30T18:37:09.613Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:37:09.613Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[@data-testid=\"pnl-productPreview\"])[1]//img[@data-product-name] in page."}
+{"level":30,"time":"2022-05-30T18:37:09.664Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved dom property for element (//*[@data-testid=\"pnl-productPreview\"])[1]//img[@data-product-name] containing https://aumento.officemate.co.th/media/catalog/product/p/w/pwb000233496_1.jpg?imwidth=320"}
+{"level":30,"time":"2022-05-30T18:37:09.665Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-30T18:37:09.809Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:37:09.810Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[@data-testid=\"pnl-productPreview\"])[1]//*[contains(@id,\"lbl-ProductPreview-Name-\")] in page."}
+{"level":30,"time":"2022-05-30T18:37:09.891Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element (//*[@data-testid=\"pnl-productPreview\"])[1]//*[contains(@id,\"lbl-ProductPreview-Name-\")] containing SANDISK Flash Drive Ultra Flair USB 3.0 SDCZ73_128G_G46"}
+{"level":30,"time":"2022-05-30T18:37:09.891Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:37:09.893Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:37:09.893Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[@data-testid=\"pnl-productPreview\"])[1]//*[contains(@id,\"lbl-ProductPreview-Name-\")]/..//following-sibling::div in page."}
+{"level":30,"time":"2022-05-30T18:37:09.954Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element (//*[@data-testid=\"pnl-productPreview\"])[1]//*[contains(@id,\"lbl-ProductPreview-Name-\")]/..//following-sibling::div containing OFMY044129"}
+{"level":30,"time":"2022-05-30T18:37:09.954Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:37:09.957Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-30T18:37:09.957Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with (//*[@data-testid=\"pnl-productPreview\"])[1]//*[contains(@id,\"lbl-ProductList-Price-\")] in page."}
+{"level":30,"time":"2022-05-30T18:37:09.997Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Retrieved text for element (//*[@data-testid=\"pnl-productPreview\"])[1]//*[contains(@id,\"lbl-ProductList-Price-\")] containing ฿ 850.00"}
+{"level":30,"time":"2022-05-30T18:37:09.997Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-30T18:37:09.999Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.034Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Removed page=0949ce8e-3865-4886-8477-c42374447e2f from context=9553d0ac-0921-4eba-ba4e-07d6c82eb26e page stack"}
+{"level":30,"time":"2022-05-30T18:37:10.158Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.159Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.159Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.160Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.160Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.415Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.415Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.416Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.416Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.417Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.417Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.623Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.623Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.625Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.625Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.627Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.627Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.878Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.878Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:10.878Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.878Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.879Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:10.879Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:11.121Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:11.121Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:11.123Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:11.123Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:11.125Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:11.125Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.323Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:13.323Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:13.325Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.325Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.326Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.326Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.980Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:13.980Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:13.982Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.982Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.986Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:13.986Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:19.159Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:19.159Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-05-30T18:37:19.159Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:19.159Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:19.160Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:19.160Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-30T18:37:19.281Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-30T18:37:19.281Z","pid":2546,"hostname":"Soratorns-MacBook-Air.local","msg":"End of node method closeAllBrowsers"}
